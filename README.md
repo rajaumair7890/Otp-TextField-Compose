@@ -1,2 +1,2 @@
 # Otp-TextField-Compose
-![ScreenShot](/otpTextFieldDemo.png)
+![ScreenShot](/otpTextFieldDemo[1].png)
